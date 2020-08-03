@@ -1,0 +1,20 @@
+Lecture 01: JavaScript, Overview
+Notes & concepts:
+
+1. Shallow copy vs Deep copy in JavaScript objects:
+	https://masteringjs.io/tutorials/fundamentals/shallow-copy
+
+2. Hoisting - VAR, functions, can be hoisted. LET and CONST not. 
+	https://www.w3schools.com/js/js_hoisting.asp
+
+3. JavaScript equality table:
+	https://dorey.github.io/JavaScript-Equality-Table/
+
+4. Global variables, browser window vs node global:
+    https://stackoverflow.com/questions/46006544/javascript-global-object-vs-window-object
+    https://stackoverflow.com/questions/22770299/meaning-of-this-in-node-js-modules-and-functions
+
+5. Closures, "a function having access to the parent scope, even after the parent function has closed":
+    https://www.w3schools.com/js/js_function_closures.asp
+    https://medium.com/@prashantramnyc/javascript-closures-simplified-d0d23fa06ba4
+
